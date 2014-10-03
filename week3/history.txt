@@ -1,0 +1,210 @@
+    1  ls -ltr
+    2  sudo gedit /etc/cntlm.conf 
+    3  bg
+    4  cd
+    5  find . -name *.crt -print 2>/dev/null
+    6  cd Downloads/
+    7  ls
+    8  vi eduroam-linux-IoTT_Linux.sh 
+    9  cd
+   10  sudo gedit /etc/cntlm.conf 
+   11  sudo gedit /etc/cntlm.conf 
+   12  bg
+   13  cntlm -M
+   14  cntlm -H
+   15  cntlm -H
+   16  cntlm -H
+   17  cntlm -H
+   18  sudo service cntlm restart
+   19  cntlm -H
+   20  cntlm -H cntlm.conf
+   21  cntlm cntlm.conf -H
+   22  cntlm -H
+   23  cntlm -H www.sun.com
+   24  cntlm -H
+   25  cntlm -H
+   26  ls /etc
+   27  sudo mv /etc/cntlm.conf /etc/cntlm.conf.old
+   28  cntlm -H
+   29  ls
+   30  sudo apt-get remove cntlm
+   31  sudo apt-get install cntlm
+   32  sudo apt-get remove cntlm
+   33  sudo apt-get install cntlm
+   34  sudo service start cntlm
+   35  sudo apt-get install cntlm
+   36  sudo service start 
+   37  sudo service cntlm start
+   38  sudo service cntlm start -v
+   39  sudo apt-get remove cntlm
+   40  sudo apt-get install cntlm
+   41  sudo apt-get remove cntlm
+   42  sudo apt-get install cntlm
+   43  sudo apt-get remove cntlm
+   44  find / -name cntlm.conf -print
+   45  find / -name cntlm.conf -print 2>/dev/nul
+   46  find / -name cntlm.conf -print 2>/dev/null
+   47  sudo apt-get remove cntlm
+   48  sudo apt-get install cntlm
+   49  sudo apt-get install cntlm
+   50  ls /etc/cntlm.conf
+   51  sudo apt-get purge cntlm
+   52  sudo apt-get install cntlm
+   53  find / -name cntlm.conf -print 2>/dev/null
+   54  cntlm -H
+   55  sudo vi /etc/cntlm.conf
+   56  cntlm -H
+   57  fg
+   58  sudo service cntlm restart
+   59  vi eduroam-linux-IoTT_Linux.sh 
+   60  sudo vi /etc/cntlm.conf
+   61  cntlm -M
+   62  cntlm -H -c /etc/cntlm.conf
+   63  cntlm -c /etc/cntlm.conf -H
+   64  cntlm -H
+   65  cntlm -c /etc/cntlm.conf -H
+   66  cntlm -c /etc/cntlm.conf 
+   67  cntlm -H -u jburns@stf
+   68  sudo vi /etc/cntlm.conf
+   69  sudo service cntlm restart
+   70  sudo vi /etc/cntlm.conf
+   71  sudo service cntlm restart
+   72  sudo service cntlm restart
+   73  sudo service cntlm restart
+   74  ls -ltr
+   75  rm *.cer
+   76  ls
+   77  chef
+   78  ls /opt
+   79  /opt/chef/bin/chef-solo
+   80  sudo shutdown -r now
+   81  ls -ltr
+   82  vi .profile 
+   83  export http_proxy=http://localhost:3128
+   84  export GIT_SSL_NO_VERIFY=1
+   85  export http_proxy=http://localhost:3128
+   86  sudo -E apt-get install git
+   87  git config --global user.email "x00093573"ittd.ie"
+   88  clr
+   89  git config --global user.name "x00093573@
+   90  git config --global user.email "x00093573"ittd.ie"
+   91  git config --global user.name "x00093573"
+   92  @
+   93  git config --global user.email "x00093573@ittd.ie"
+   94  git config --global user.name "x00093573"
+   95  export GIT_SSL_NO_VERIFY=1
+   96  export http_proxy=http://localhost:3128
+   97  sudo -E apt-get install git
+   98  git config --global user.email "x00093573"ittd.ie"
+   99  export GIT_SSL_NO_VERIFY=1
+  100  export http_proxy=http://localhost:3128
+  101  sudo -E apt-get install git
+  102  git config --global user.email "x00093573@ittd.ie"
+  103  git config --global user.name "x00093573"
+  104  git clone https://github.com/jzburns/EAA.lab.1.git
+  105  cd EAA.lab.1/
+  106  mkdir EAA.lab.2
+  107  cd EAA.lab.2
+  108  -cd
+  109  git clone https://github.com/jzburns/EAA.lab.1.git
+  110  git clone https://github.com/jzburns/EAA.lab.2.git
+  111  cd ..
+  112  cd EAA.lab
+  113  mkdir EAA.lab
+  114  cd EAA.lab
+  115  ls
+  116  mkdir week3
+  117  git add -A
+  118  cd week3
+  119  touch script.sh
+  120  cd..
+  121  cd ..
+  122  git add -A
+  123  git clone https://github.com/x00093573/EAA.lab
+  124  mkdir week2
+  125  cd week2
+  126  touch script.sh
+  127  cd ..
+  128  git add -A
+  129  mkdir EAA.lab.2
+  130  cd ..
+  131  mkdir EAA.lab.2
+  132  cd EAA.lab.2
+  133  cd week2
+  134  cd ..
+  135  git clone https://github.com/x00093573/EAA.lab.git
+  136  ls
+  137  cd EAA.lab
+  138  mkdir week2
+  139  cd week2
+  140  touch script.sh
+  141  cd ..
+  142  cd week2
+  143  touch script.sh gedit
+  144  gedit touch script.sh
+  145  cd ..
+  146  git add -A
+  147  git add -A
+  148  ls
+  149  cd ..
+  150  ls
+  151  rm -rf EAA.lab
+  152  mkdir EAA.lab
+  153  cd EAA.lab
+  154  touch README.md
+  155  git init
+  156  git add README.md
+  157  git commit -m "first commit"
+  158  git remote add origin https://github.com/x00093573/EAA.lab.git
+  159  git push -u origin master
+  160  ls
+  161  mkdir week3
+  162  cd ..
+  163  mkdir demo
+  164  cd demo
+  165  touch README.md
+  166  git init
+  167  git add README.md
+  168  git commit -m "first commit"
+  169  git remote add origin https://github.com/x00093573/demo.git
+  170  git push -u origin master
+  171  mkdir week3
+  172  ls
+  173  cd week3
+  174  gedit weeek3.sh
+  175  ls
+  176  cd..
+  177  cd ..
+  178  git add -A
+  179  git commit -a
+  180  git push -u origin master
+  181  cd week3
+  182  git add -A
+  183  cd ..
+  184  cd week3
+  185  ls
+  186  cd ..
+  187  git add -A
+  188  fg
+  189  fg
+  190  git add -A
+  191  git commit -a
+  192  git push -u origin master
+  193  cd ..
+  194  git clone EAA.FT
+  195  git clone https://github.com/x00093573/EAA.FT
+  196  rm - rf DEM*
+  197  ls
+  198  rm-rf DEMO
+  199  rm -rf DEMO
+  200  ls
+  201  rm -rf DEM*
+  202  ls 
+  203  rm -rf demo
+  204  ls
+  205  cd
+  206  cd EAA.FT
+  207  history
+  208  ls
+  209  cd week3
+  210  history > history.txt
