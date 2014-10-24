@@ -6,6 +6,6 @@
 #: Description : Read
 #: Options : N/A
 
-echo "Please enter you Name"
-read input_variable1
-printf "%s/n" $input_variable1 >> diary.txt
+thedate=$(_date_)
+printf "%s_%s" "$thedate" $txt >> diary.txt
+
